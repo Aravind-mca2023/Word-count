@@ -1,5 +1,11 @@
 # Word-count
 
-In this exercise, we can count the words that how many time it take place in the paragraph. And also it will display the top 3 repeated words.
+The word count is a program to check the most repeated words in a paragraph and to the display most commonly repeated three words in console
+
+Steps to Run the Project
+Press Ctrl + Shift + I (or) right click the mouse and click inspect to open console
+
+Future Improvements
+This Project can be further enhanced by checking most repeated alphabetic or special symbols
 
 https://aravind-mca2023.github.io/Word-count/
