@@ -8,4 +8,3 @@ Press Ctrl + Shift + I (or) right click the mouse and click inspect to open cons
 # Future Improvements
 This Project can be further enhanced by checking most repeated alphabetic or special symbols
 
-https://aravind-mca2023.github.io/Word-count/
